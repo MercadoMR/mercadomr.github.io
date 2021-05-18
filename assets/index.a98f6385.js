@@ -1,0 +1,1 @@
+import{o as e,c as s,w as n,a,F as o,b as r}from"./vendor.fdc2a66e.js";const t={setup(){}};t.render=function(n,a,o,r,t,u){return e(),s("h1",null,"Un navbar here")};const u={setup:()=>({})},l=n()(((n,a,o,r,t,u)=>(e(),s("h1",null,"Hello World!"))));u.render=l,u.__scopeId="data-v-11328888";r({expose:[],setup:n=>(n,r)=>(e(),s(o,null,[a(t),a(u,{msg:"About!"})],64))}).mount("#app");
